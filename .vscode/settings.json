@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.shell.windows": "E:\\laragon\bin\\cmder\\cmder.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableCommitSigning": true,
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "blade.format.enable": true,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+}
